@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/greybax/generator-badges#readme",
   "devDependencies": {
-    "coveralls": "^2.11.12",
+    "coveralls": "^3.0.0",
     "istanbul": "^0.4.5",
     "mocha": "^3.0.2",
     "yeoman-assert": "^3.0.0",
